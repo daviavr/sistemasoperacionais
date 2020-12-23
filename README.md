@@ -11,6 +11,6 @@ Comando para compilação: gcc "nome_do_arquivo.c" -o "nome_do_arquivo_executáv
 Note que é obrigatório o use do argumento -pthread, pois ele indica que o compilador deve usar a biblioteca pthread.
 Com isso, basta executar o programa para testar a tarefa de programação.
 
-Comando: ./nome_do_arquivo_executável
+Comando para execução: ./nome_do_arquivo_executável
 
 Obs: "nome_do_arquivo.c" foi definido na instância como "trabso.c" e "nome_do_arquivo_executável" como "trabso".
