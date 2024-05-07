@@ -1,5 +1,5 @@
 # Trabalho Sistemas Operacionais TT304
-Projeto desenvolvido para  a  disciplina  Sistemas  Operacionais, na Faculdade de Tecnologia da UNICAMP, sob a orientação do Prof. Dr. André Leon S. Gradvohl.
+Trabalho desenvolvido para  a  disciplina  Sistemas  Operacionais, na Faculdade de Tecnologia da UNICAMP, sob a orientação do Prof. Dr. André Leon S. Gradvohl.
 Após a criação da instância AWS solicitada no trabalho, o usuário deve instalar o compilador Gnu  Compiler  Collection  (GCC), o que pode ser feito através do comando:
 
 sudo yum install gcc
